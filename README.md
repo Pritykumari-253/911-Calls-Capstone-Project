@@ -1,13 +1,6 @@
-# 911-calls-Capstone-Project
-I will be analyzing some 911 call data from Kaggle.
-The data contains the following fields:
-
-lat : String variable, Latitude
-lng: String variable, Longitude
-desc: String variable, Description of the Emergency Call
-zip: String variable, Zipcode
-title: String variable, Title
-timeStamp: String variable, YYYY-MM-DD HH:MM:SS
-twp: String variable, Township
-addr: String variable, Address
-e: String variable, Dummy variable (always 1)
+# Machine Learning Projects
+I applied supervised and unsupervised Machine Learning Models on different datasets taken from Kaggle.
+Which Includes cleaning, splitting, Training and testing the dataset
+Also sometimes we need to standarised and scale few features
+After that comes the most important step for evaluating the performance
+And plotting the training v/s testing error to observe the accuracy
